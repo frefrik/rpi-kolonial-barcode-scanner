@@ -34,7 +34,7 @@ $ python scanner.py
 
 ### Example output
 ```shell
-raspberrypi:~/kolonial-barcode-scanner $ python scanner.py
+raspberrypi:~/rpi-kolonial-barcode-scanner $ python scanner.py
 Starting video stream...
 Video stream started
 
