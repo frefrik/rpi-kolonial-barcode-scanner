@@ -19,7 +19,7 @@ $ sudo usermod -a -G video $(whoami)
 ```
 
 ## Usage
-Edit your API credentials in `scanner.py`
+Edit your [API credentials](https://github.com/kolonialno/api-docs) in `scanner.py`
 ```python
 USERNAME = 'your@email'
 PASSWORD = 'yourPassword'
